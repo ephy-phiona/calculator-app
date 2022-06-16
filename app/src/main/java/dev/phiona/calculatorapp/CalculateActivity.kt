@@ -1,4 +1,4 @@
-package dev.phiona.calculatorappi
+package dev.phiona.calculatorapp
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
